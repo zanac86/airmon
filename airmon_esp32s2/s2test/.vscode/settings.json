@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "adafruit_sgp30.h": "c",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "memory": "cpp",
+        "initializer_list": "cpp"
+    }
+}
